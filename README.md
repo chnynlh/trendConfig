@@ -1,0 +1,2 @@
+# trendConfig
+trend config server
